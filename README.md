@@ -1,2 +1,2 @@
 # monitor
-similar to nagios
+This monitor tool is similar to nagios.
